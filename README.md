@@ -5,6 +5,10 @@ This repository contains the official Pytorch implementation of training & evalu
 Authors : Lu Yang, Yiwen Bai, Fenglei Ren, Chongke Bi, Ronghui Zhang 
 
 
+## News
+Due to the amount of research involved, the time to maintain this implementation code is very limited. We will compile the complete code and upload it to this repository as soon as possible.
+
+
 ## Introduction
 <p align="center">
   <img src="figures/cityscapes_score.jpg" alt="overview-of-our-method" width="700"/></br>
