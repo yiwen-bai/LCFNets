@@ -1,6 +1,7 @@
 # LCFNets: Compensation Strategy for Real-time Semantic Segmentation of Autonomous Driving
 
 This repository contains the official Pytorch implementation of training & evaluation code for [LCFNets](https://ieeexplore.ieee.org/document/10428050)(IEEE TIV)🔥
+
 Earlier work is published in [IEEE ITSC](https://ieeexplore.ieee.org/document/10422086).🔥
 
 Authors : Lu Yang, Yiwen Bai, Fenglei Ren, Chongke Bi, Ronghui Zhang 
