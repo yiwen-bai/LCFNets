@@ -78,12 +78,16 @@ The visualization results of LCFNets on the Cityscapes and Camvid datasets are s
 
 If you think this implementation is useful for your work, please cite our paper:
 ```
-@article{bai2024lcfnet,
-  title={LCFNets: Compensation Strategy for Real-time Semantic Segmentation of Autonomous Driving},
-  author={Lu Yang, Yiwen Bai, Fenglei Ren, Chongke Bi, Ronghui Zhang},
-  journal={IEEE Transactions on Intelligent Vehicles},
-  year={2024}
-}
+@ARTICLE{bai2024lcfnet,
+  author={Yang, Lu and Bai, Yiwen and Ren, Fenglei and Bi, Chongke and Zhang, Ronghui},
+  journal={IEEE Transactions on Intelligent Vehicles}, 
+  title={LCFNets: Compensation Strategy for Real-Time Semantic Segmentation of Autonomous Driving}, 
+  year={2024},
+  volume={9},
+  number={4},
+  pages={4715-4729},
+  keywords={Semantic segmentation;Semantics;Convolution;Feature extraction;Real-time systems;Complexity theory;Transformers;Compensation strategy;multi-branch aggregation;real-time semantic segmentation;autonomous driving},
+  doi={10.1109/TIV.2024.3363830}}
 ```
 
 
