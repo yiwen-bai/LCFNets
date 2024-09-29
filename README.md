@@ -86,7 +86,6 @@ If you think this implementation is useful for your work, please cite our paper:
   volume={9},
   number={4},
   pages={4715-4729},
-  keywords={Semantic segmentation;Semantics;Convolution;Feature extraction;Real-time systems;Complexity theory;Transformers;Compensation strategy;multi-branch aggregation;real-time semantic segmentation;autonomous driving},
   doi={10.1109/TIV.2024.3363830}}
 
 @INPROCEEDINGS{bai2024lcfnet,
@@ -94,10 +93,7 @@ If you think this implementation is useful for your work, please cite our paper:
   booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
   title={LCFNet: Loss Compensation Fusion Network for Real-Time Semantic Segmentation of Urban Road Scenes}, 
   year={2023},
-  volume={},
-  number={},
   pages={347-354},
-  keywords={Service robots;Semantic segmentation;Semantics;Feature extraction;Robot sensing systems;Real-time systems;Intelligent transportation systems},
   doi={10.1109/ITSC57777.2023.10422086}}
 ```
 
