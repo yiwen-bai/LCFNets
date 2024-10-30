@@ -88,7 +88,7 @@ If you think this implementation is useful for your work, please cite our paper:
   pages={4715-4729},
   doi={10.1109/TIV.2024.3363830}}
 
-@INPROCEEDINGS{bai2024lcfnet,
+@INPROCEEDINGS{bai2023lcfnet,
   author={Yang, Lu and Bai, Yiwen and Ren, Fenglei and Zhang, Shiyu and Bi, Chongke},
   booktitle={2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)}, 
   title={LCFNet: Loss Compensation Fusion Network for Real-Time Semantic Segmentation of Urban Road Scenes}, 
