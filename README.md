@@ -7,9 +7,6 @@ Earlier work is published in [IEEE ITSC](https://ieeexplore.ieee.org/document/10
 Authors : Lu Yang, Yiwen Bai, Fenglei Ren, Chongke Bi, Ronghui Zhang 
 
 
-## News
-Due to the amount of research involved, the time to maintain this implementation code is very limited. We will compile the complete code and upload it to this repository as soon as possible.
-
 
 ## Introduction
 <p align="center">
